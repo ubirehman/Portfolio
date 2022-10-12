@@ -1,2 +1,3 @@
-# html-freebie-portfolio-perfect
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
+Hi all, I am Ubaid Ur Rehman
+
+A passionate Unity Developer having a total expeirence of about 3 years developing games under several geners ranging from Hyper Casual, Simulator, Multiplayer, Sports, VR games and Mixed Reality disaster management simulator.
